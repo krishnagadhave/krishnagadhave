@@ -2,13 +2,13 @@
 
 ### 💻 Computer Engineering Student | MERN Stack Developer | Backend Enthusiast
 
-I'm a final-year Computer Engineering student at **MIT Academy of Engineering, Pune**, interested in building practical software solutions that solve real-world problems.
+I build practical web applications focused on **solving real-world problems**. I'm particularly interested in backend development, REST APIs, authentication, databases, and full-stack applications.
 
-I enjoy working on **backend development, REST APIs, authentication, databases, and full-stack web applications** using the MERN stack.
+🎓 Final-year Computer Engineering student at **MIT Academy of Engineering, Pune**
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Tech I Work With
 
 **Languages**
 
@@ -16,7 +16,7 @@ I enjoy working on **backend development, REST APIs, authentication, databases, 
 
 **Frontend**
 
-`HTML` `CSS` `React.js` `Tailwind CSS`
+`React.js` `HTML` `CSS` `Tailwind CSS`
 
 **Backend**
 
@@ -32,73 +32,32 @@ I enjoy working on **backend development, REST APIs, authentication, databases, 
 
 ---
 
-## 🛠️ Featured Projects
+## 🌱 Currently Exploring
 
-### 🏢 College ERP System
-
-A real-world ERP system designed to automate college workflows such as **seminar hall booking, canteen requisitions, and maintenance management**.
-
-**My focus:** Backend development, REST APIs, database models, authentication and role-based authorization.
-
-**Tech:** React.js • Node.js • Express.js • TypeScript • MongoDB • Mongoose • JWT
+**DSA & Problem Solving** • **Advanced JavaScript** • **Backend Development** • **REST API Design** • **AWS & Cloud**
 
 ---
 
-### 🍽️ Canteen Requisition System
+## 🚀 What I Build
 
-A web-based system that digitizes the canteen requisition and approval workflow.
+I enjoy working on applications that solve practical problems, including:
 
-**Highlights:**
-
-* RESTful backend APIs
-* JWT authentication
-* Role-based access control
-* Requisition and approval workflow
-* MongoDB database integration
-
-**Tech:** Node.js • Express.js • TypeScript • MongoDB • Mongoose
+* 🏢 **College ERP Systems** — automating real-world college workflows
+* 🍽️ **Canteen Requisition Systems** — digital requisition and approval workflows
+* 📅 **Facility Booking Systems** — resource and booking management
+* 🧭 **WanderRoute** — travel and road-trip focused application
+* 🧠 **DSA Solutions** — problem solving and interview preparation in C++
 
 ---
 
-### 🏢 Facility Booking System
+## 📫 Connect With Me
 
-A web application for managing facility and resource bookings with a structured backend workflow.
+💼 [LinkedIn](https://www.linkedin.com/in/krishna-gadhave-764055316/)
 
-**Tech:** JavaScript • Node.js • Express.js • MongoDB
+📧 [Email](mailto:krushnagadhave201@gmail.com)
 
----
-
-### 🧠 DSA & Problem Solving
-
-I regularly practice **Data Structures & Algorithms in C++**, focusing on problem-solving patterns commonly used in technical interviews.
-
-`Arrays` `Strings` `Hashing` `Binary Search` `Linked Lists` `Stacks` `Queues` `Recursion`
+🐙 [GitHub](https://github.com/krishnagadhave)
 
 ---
 
-## 📚 Currently Learning
-
-* Advanced JavaScript & ES6+
-* Backend Development
-* REST API Design
-* Authentication & Authorization
-* Data Structures & Algorithms
-* AWS & Cloud Fundamentals
-
----
-
-## 🎯 My Goal
-
-To become a strong **software developer** by continuously improving my problem-solving skills and building software that solves meaningful, real-world problems.
-
----
-
-## 🤝 Let's Connect
-
-**LinkedIn:** [Krishna Gadhave](https://www.linkedin.com/in/krishna-gadhave-764055316/)
-
-**Email:** [krushnagadhave201@gmail.com](mailto:krushnagadhave201@gmail.com)
-
----
-
-⭐ *Always learning. Always building.*
+> ⚡ Building, learning, and improving — one project at a time.
